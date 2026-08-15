@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hola, soy Miguel Angel Toro Ramos👋
+
+- 🎓 Estudiante de la Maestría en Ciencia de Datos — UPB
+- 💻 Actualmente aprendiendo Ciencia de Datos en Producción
+- 🌱 Intereses: NLP, MLOps, AI Agents
+- 📫 Cómo contactarme: miguel070100@gmail.com - https://www.linkedin.com/in/miguel-angel-toro-ramos-aa5a74217/
+
 
 <!--
 **mangel477/mangel477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
